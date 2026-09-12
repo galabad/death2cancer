@@ -8,6 +8,7 @@ This project is designed for the **Ambiguous** workspace: its wiki, forms, tasks
 
 - [Project landing wiki](https://app.ambiguous.ai/wiki/breast-cancer-metabolism-research-public/breast-cancer-metabolism-research)
 - [Evidence-brief request form](https://app.ambiguous.ai/f/death2cancer/request-breast-cancer-metabolism-evidence-brief)
+- [Published evidence briefs](https://app.ambiguous.ai/wiki/breast-cancer-metabolism-research-public/published-evidence-briefs)
 
 ## Four roles
 
@@ -26,6 +27,7 @@ This is a transparent **hypothesis-generation and evidence-mapping** system. It 
 
 - [Architecture](docs/architecture.md)
 - [Ambiguous setup](docs/ambiguous-setup.md)
+- [Public request workflow](docs/public-request-workflow.md)
 - [Research governance](docs/research-governance.md)
 - [Data and privacy policy](docs/data-and-privacy.md)
 - [Contribution guide](CONTRIBUTING.md)

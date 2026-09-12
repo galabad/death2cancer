@@ -21,7 +21,10 @@ On a new form response:
 1. Create an auditable research task containing the response ID and non-sensitive request text.
 2. Dispatch a role-specific handoff to each of the four roles.
 3. Create a source-linked evidence brief page and link it from the task and Evidence Inbox.
-4. Do not send email unless the requester explicitly asks for it and the response is appropriate.
+4. Add the completed brief to a public **Published Evidence Briefs** index.
+5. When the response contains a valid email address, send one completion email containing the specific brief URL and the research-only boundary. Never send email to any other address.
+
+The form confirmation should say **Processing...** and link to the published-brief index. Ambiguous's standard public-form UI does not currently keep a browser-side spinner open until a dynamically created brief is complete; that exact behaviour requires a custom public frontend that submits to Ambiguous and polls a status endpoint.
 
 ## Local credential hygiene
 
