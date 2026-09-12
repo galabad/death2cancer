@@ -7,6 +7,7 @@ This project is designed for the **Ambiguous** workspace: its wiki, forms, tasks
 ## Public entry points
 
 - [Project landing wiki](https://app.ambiguous.ai/wiki/breast-cancer-metabolism-research-public/breast-cancer-metabolism-research)
+- [Request an evidence brief page](https://app.ambiguous.ai/wiki/breast-cancer-metabolism-research-public/request-breast-cancer-metabolism-evidence-brief)
 - [Evidence-brief request form](https://app.ambiguous.ai/f/death2cancer/request-breast-cancer-metabolism-evidence-brief)
 - [Published evidence briefs](https://app.ambiguous.ai/wiki/breast-cancer-metabolism-research-public/published-evidence-briefs)
 
