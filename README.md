@@ -11,6 +11,13 @@ This project is designed for the **Ambiguous** workspace: its wiki, forms, tasks
 - [Evidence-brief request form](https://app.ambiguous.ai/f/death2cancer/request-breast-cancer-metabolism-evidence-brief)
 - [Published evidence briefs](https://app.ambiguous.ai/wiki/breast-cancer-metabolism-research-public/published-evidence-briefs)
 
+The landing page also lists completed questions with direct brief links. Current examples:
+
+- [What is the top drug for affecting breast-cancer metabolism?](https://app.ambiguous.ai/wiki/breast-cancer-metabolism-research/evidence-brief-leading-drug-candidates-breast-cancer-metabolism)
+- [What drugs most affect hormones related to breast cancer?](https://app.ambiguous.ai/wiki/breast-cancer-metabolism-research/evidence-brief-breast-cancer-hormone-biology)
+
+These are research-only evidence maps, not treatment recommendations.
+
 ## Four roles
 
 1. **Metabolism Software & Model Analyst** — reproducible pathway, genome-scale metabolic-model, and chemoinformatics workflows.
